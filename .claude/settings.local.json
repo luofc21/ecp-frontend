@@ -13,7 +13,10 @@
       "Bash(git init:*)",
       "Bash(curl:*)",
       "Bash(git config:*)",
-      "Bash(git:*)"
+      "Bash(git:*)",
+      "Bash(chmod +x:*)",
+      "Bash(pip install:*)",
+      "mcp__chrome-devtools__list_pages"
     ]
   }
 }
