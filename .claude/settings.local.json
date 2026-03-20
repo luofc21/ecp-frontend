@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__chrome-devtools__navigate_page",
+      "mcp__chrome-devtools__take_screenshot",
+      "mcp__chrome-devtools__take_snapshot",
+      "mcp__chrome-devtools__evaluate_script",
+      "Bash(python:*)",
+      "Bash(pip show:*)",
+      "Bash(set PYTHONUTF8=1:*)",
+      "Bash(gh auth:*)",
+      "Bash(where gh:*)",
+      "Bash(git init:*)",
+      "Bash(curl:*)",
+      "Bash(git config:*)",
+      "Bash(git:*)"
+    ]
+  }
+}
