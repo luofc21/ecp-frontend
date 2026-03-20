@@ -16,7 +16,7 @@
 
 ### 基础色板
 
-![](/ecp-ui-plus/images/example/web-ui.jpg)
+![](../../../assets/ecp-ui-plus/images/web-ui.jpg)
 
 ### 主题色
 

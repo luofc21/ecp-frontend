@@ -332,7 +332,7 @@ portalTabsActionsInst.getAll();
 
 ### 基础用法
 
-![Portal-tabs 基础用法](/ecp-ui-plus/images/example/ecp-portal-tabs-01.png)
+![Portal-tabs 基础用法](../../../assets/ecp-ui-plus/images/ecp-portal-tabs-01.png)
 
 查看代码片段
 
@@ -410,7 +410,7 @@ const handleSelect = (data) => {
 
 ### 使用自定义页签
 
-![Portal-tabs 使用自定义页签](/ecp-ui-plus/images/example/ecp-portal-tabs-02.png)
+![Portal-tabs 使用自定义页签](../../../assets/ecp-ui-plus/images/ecp-portal-tabs-02.png)
 
 查看代码片段
 
